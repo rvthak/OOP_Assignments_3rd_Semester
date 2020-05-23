@@ -1,7 +1,7 @@
 # OOP_Assignments_3rd_Semester
 My University Assignments for the third Semester - Object Oriented Programming
 
-###Table of contents:
+### Table of contents:
 1) Basic Forum representation
 2) Basic function implementation based on forum structure from previous exercise
 3) Simple Airplane logistics program
